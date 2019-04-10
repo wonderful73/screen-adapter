@@ -1,0 +1,19 @@
+{
+  "name": "screen-adapter",
+  "version": "0.0.1",
+  "description": "A tool for adapting mobile screens to change font-size of <html/> tags by comparing the size of design drafts and screens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screen",
+    "adapter"
+  ],
+  "author": "starcoder0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:huangjiehai/screen-adapter.git"
+  }
+}
