@@ -1,6 +1,6 @@
 {
   "name": "screen-adapter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tool for adapting mobile screens to change font-size of <html/> tags by comparing the size of design drafts and screens",
   "main": "index.js",
   "scripts": {
